@@ -42,7 +42,7 @@ I build things at the intersection of cryptography, compliance, and blockchain â
 **[Lightning SDK](https://github.com/soqucoin/soq-lightning-sdk)** â€” Post-Quantum L2
 - eLTOO payment channels with APO-based state updates
 - CTV covenant vaults for off-chain settlement
-- ~175 payments/sec/node (tested, real persistence)
+- ~1,700 payments/sec/node (end-to-end, VPS-tested)
 
 </td>
 </tr>
