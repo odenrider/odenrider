@@ -73,11 +73,11 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 
 | Metric | |
 |:-------|:--|
-| **16** | Patent applications filed (15 Soqucoin ecosystem + Oracle ONCLAVE) |
-| **$72–122M** | Projected first-year impact at Oracle (ONCLAVE) |
+| **16** | Patent applications filed (15 Soqucoin ecosystem + Fortune 100 ONCLAVE) |
+| **$72–122M** | Projected first-year impact at Fortune 100 (ONCLAVE) |
 | **25+** | Years: USAF Active Duty → DoD Civilian → F500 → Founder |
 | **116K** | Lines of legacy crypto removed from Soqucoin |
-| **5** | Successful FedRAMP 3PAO audits led at Oracle |
+| **5** | Successful FedRAMP 3PAO audits led at Fortune 100 |
 
 ---
 
@@ -117,7 +117,7 @@ All Soqucoin ecosystem patents are U.S. provisional applications assigned to **S
 </details>
 
 <details>
-<summary><strong>Oracle (1 patent)</strong></summary>
+<summary><strong>Fortune 100 (1 patent)</strong></summary>
 
 | ID | Title |
 |:---|:------|
@@ -131,7 +131,7 @@ All Soqucoin ecosystem patents are U.S. provisional applications assigned to **S
 
 - **Soqucoin Labs** — Founded the first native post-quantum L1 blockchain. Built the mining pool, bridge, mobile wallet, compliance scanner (PQCAT), and 16-patent IP portfolio from zero. Halborn-audited. Pre-mainnet with production infrastructure live.
 
-- **Oracle** — Invented ONCLAVE (patent pending), an AI/ML compliance automation engine. Led FedRAMP Rev 5 / 20x / ConMon automation across $18M ARR programs. 5 successful 3PAO audits. STIG compliance: 40% → 80%+ across 2,000+ controls.
+- **Fortune 100** — Invented ONCLAVE (patent pending), an AI/ML compliance automation engine. Led FedRAMP Rev 5 / 20x / ConMon automation across $18M ARR programs. 5 successful 3PAO audits. STIG compliance: 40% → 80%+ across 2,000+ controls.
 
 - **U.S. Air Force** — IA architect for 5 DoD networks under RMF. Anti-tamper risk for 1,000+ technologies. Lead Security Engineer on Grey Eagle/Predator/Global Hawk UAS programs. Combat comms crew chief with campaign medals (Korea, GWOT).
 
