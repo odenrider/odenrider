@@ -23,7 +23,7 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 
 **[PQCAT](https://pqcat.io)** — Post-Quantum Compliance Assessment Tool
 - Enterprise scanner: 10 modules, 11 compliance frameworks (CNSA 2.0, FedRAMP, FISMA, PCI, HIPAA)
-- Confidential Compliance Engine — zk-STARK privacy-preserving compliance proofs
+- Confidential Compliance Engine — hash-based binding proofs with graduated selective disclosure
 - Dual-edition with air-gapped Enclave mode for classified environments
 - HNDL (Harvest Now, Decrypt Later) risk quantification engine
 
@@ -73,7 +73,7 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 
 | Metric | |
 |:-------|:--|
-| **16** | Patent applications filed (15 Soqucoin ecosystem + Fortune 100 ONCLAVE) |
+| **22** | Patent applications filed (21 Soqucoin ecosystem + Fortune 100 ONCLAVE) |
 | **$72–122M** | Projected first-year impact at Fortune 100 (ONCLAVE) |
 | **25+** | Years: USAF Active Duty → DoD Civilian → F500 → Founder |
 | **116K** | Lines of legacy crypto removed from Soqucoin |
@@ -81,12 +81,12 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 
 ---
 
-#### 📜 Patent Portfolio — 16 Applications Filed
+#### 📜 Patent Portfolio — 22 Applications Filed
 
 All Soqucoin ecosystem patents are U.S. provisional applications assigned to **Soqucoin Labs Inc.** ([full details →](https://soqu.org/docs/patents/))
 
 <details>
-<summary><strong>Soqucoin L1 — Blockchain (7 patents)</strong></summary>
+<summary><strong>Soqucoin L1 — Blockchain (9 patents)</strong></summary>
 
 | ID | Title | Application |
 |:---|:------|:------------|
@@ -97,22 +97,28 @@ All Soqucoin ecosystem patents are U.S. provisional applications assigned to **S
 | SOQ-P005 | XMSS-Lite Revolving Vault — hash-based one-time-per-leaf custody | 64/035,857 |
 | SOQ-P006 | Quantum Express Cross-Chain Transfer — post-quantum bridge protocol | 64/035,873 |
 | SOQ-P007 | USDSOQ Consensus-Enforced Stablecoin — native UTXO asset typing with threshold lattice authority | 64/047,929 |
+| SOQ-P010 | SoquObscura Confidential Transactions — lattice-based confidential transfer construction | 64/131,585 |
+| SOQ-P011 | SoquObscura Boundary Pin (Construction A) — ring-degree headroom criterion | 64/132,552 |
 
 </details>
 
 <details>
-<summary><strong>PQCAT — Compliance Assessment (8 patents)</strong></summary>
+<summary><strong>PQCAT — Compliance Assessment (12 patents)</strong></summary>
 
-| ID | Title |
-|:---|:------|
-| PQCAT-P001 | Confidential Compliance Engine (CCE) — zk-STARK privacy-preserving compliance verification |
-| PQCAT-P001B | CCE with HNDL Risk Quantification — harvest-now-decrypt-later exposure scoring |
-| PQCAT-P002 | HNDL Risk Quantification Engine — standalone cryptographic exposure modeling |
-| PQCAT-P010 | Cloud-Native PQ Compliance Assessment — automated CNSA 2.0 cloud asset discovery |
-| PQCAT-P011 | Graduated Selective Disclosure Subsalt — tiered evidence disclosure for multi-party compliance |
-| PQCAT-P012 | Cryptographic Remediation Transaction — atomic remediation commitments with rollback |
-| PQCAT-P013 | Firmware Region-Bound Compliance Verdict — hardware-level PQ compliance attestation |
-| PQCAT-P014 | Backward-Looking Harvest Exposure Clock — retroactive HNDL risk timeline analysis |
+| ID | Title | Application |
+|:---|:------|:------------|
+| PQCAT-P001 | Confidential Compliance Engine (CCE) — zk-STARK privacy-preserving compliance verification | 63/999,796 |
+| PQCAT-P001B | CCE carried forward + forward HNDL risk quantification | 64/023,449 |
+| PQCAT-P010 | Cloud-Native PQ Compliance Assessment — automated CNSA 2.0 cloud asset discovery | 64/023,535 |
+| PQCAT-P011 | Graduated Selective Disclosure Subsalt — tiered evidence disclosure for multi-party compliance | 64/122,032 |
+| PQCAT-P012 | Cryptographic Remediation Transaction — atomic remediation commitments with rollback | 64/122,047 |
+| PQCAT-P013 | Firmware Region-Bound Compliance Verdict — hardware-level PQ compliance attestation | 64/122,137 |
+| PQCAT-P014 | Backward-Looking Harvest Exposure Clock — retroactive HNDL risk timeline analysis | 64/122,164 |
+| PQCAT-P015 | Provenance-Bound Nine-Item Compliance Reporting — per-cell provenance for OMB M-23-02 | 64/125,634 |
+| PQCAT-P016 | Cryptographic Agility Index | 64/126,113 |
+| PQCAT-P017 | Retro Reconciliation and Fidelity Attribution | 64/126,154 |
+| PQCAT-P018 | Plan Builder — derived completeness and refusal | 64/126,407 |
+| PQCAT-P019 | Retained-Root Cross-Boundary Disclosure | 64/126,720 |
 
 </details>
 
@@ -129,7 +135,7 @@ All Soqucoin ecosystem patents are U.S. provisional applications assigned to **S
 
 #### 🛡️ Career Highlights
 
-- **Soqucoin Labs** — Founded the first native post-quantum L1 blockchain. Built the mining pool, bridge, mobile wallet, compliance scanner (PQCAT), and 16-patent IP portfolio from zero. Halborn-audited. Pre-mainnet with production infrastructure live.
+- **Soqucoin Labs** — Founded the first native post-quantum L1 blockchain. Built the mining pool, bridge, mobile wallet, compliance scanner (PQCAT), and 21-patent IP portfolio from zero. Halborn-audited. Pre-mainnet with production infrastructure live.
 
 - **Fortune 100** — Invented ONCLAVE (patent pending), an AI/ML compliance automation engine. Led FedRAMP Rev 5 / 20x / ConMon automation across $18M ARR programs. 5 successful 3PAO audits. STIG compliance: 40% → 80%+ across 2,000+ controls.
 
