@@ -14,8 +14,8 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 
 **[Soqucoin](https://github.com/soqucoin/soqucoin)** — Founding President & Principal Architect
 - First blockchain engineered from genesis on NIST post-quantum crypto (FIPS 204 ML-DSA-44)
-- Zero legacy cryptography — removed 116K lines of secp256k1
-- Halborn security audit: all findings remediated
+- No ECDSA in transaction authorization: removed 116K lines of secp256k1
+- [Halborn security audit](https://www.halborn.com/case-studies/post/case-study-halborn-secures-soqucoin-the-first-native-post-quantum-scrypt-pow-blockchain): all findings remediated
 - Scrypt PoW + AuxPoW merge-mining (LTC/DOGE compatible)
 
 </td>
@@ -33,9 +33,9 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 <td width="50%" valign="top">
 
 **[SOQ-TEC](https://github.com/soqucoin/soqtec)** — Colosseum Frontier Hackathon 2026
-- Quantum-safe cross-chain bridge (Solana ↔ SOQ L1)
+- Post-quantum custody and cross-chain settlement software for regulated custodians, exchanges and issuers, who operate it under their own licences
 - Out-of-process ML-DSA-44 signing at <11ms latency
-- Solana bridge contract + HTTPS relayer + SoquShield bridge UI
+- Demonstrated on test networks only
 
 </td>
 <td width="50%" valign="top">
@@ -53,7 +53,7 @@ I build things at the intersection of cryptography, compliance, and blockchain �
 **[Soqupool](https://soqupool.com)** — Foundry-Grade Mining Pool
 - Production KYC Scrypt AuxPoW merge-mining pool (SOQ + LTC + DOGE)
 - 300 GH/s stress-tested, post-quantum signed SOQ payouts
-- 1.69% fee locked for life for Genesis participants
+- Flat 1.50% fee, kept permanently by members who join before mainnet (1.69% after)
 
 </td>
 <td width="50%" valign="top">
@@ -135,11 +135,11 @@ All Soqucoin ecosystem patents are U.S. provisional applications assigned to **S
 
 #### 🛡️ Career Highlights
 
-- **Soqucoin Labs** — Founded the first native post-quantum L1 blockchain. Built the mining pool, bridge, mobile wallet, compliance scanner (PQCAT), and 21-patent IP portfolio from zero. Halborn-audited. Pre-mainnet with production infrastructure live.
+- **Soqucoin Labs**: Founded the first native post-quantum L1 blockchain. Built the mining pool, cross-chain settlement software (SOQ-TEC, licensed technology), mobile wallet, compliance scanner (PQCAT), and 21-patent IP portfolio from zero. [Halborn-audited](https://www.halborn.com/case-studies/post/case-study-halborn-secures-soqucoin-the-first-native-post-quantum-scrypt-pow-blockchain). Stagenet live; mainnet block 1 is scheduled for 8 October 2026.
 
-- **Fortune 100** — Invented ONCLAVE (patent pending), an AI/ML compliance automation engine. Led FedRAMP Rev 5 / 20x / ConMon automation across $18M ARR programs. 5 successful 3PAO audits. STIG compliance: 40% → 80%+ across 2,000+ controls.
+- **Fortune 100**: Invented ONCLAVE (patent pending), an AI/ML compliance automation engine. Led FedRAMP Rev 5 / 20x / ConMon automation across $18M ARR programs. 5 successful 3PAO audits. STIG compliance: 40% → 80%+ across 2,000+ controls.
 
-- **U.S. Air Force** — IA architect for 5 DoD networks under RMF. Anti-tamper risk for 1,000+ technologies. Lead Security Engineer on Grey Eagle/Predator/Global Hawk UAS programs. Combat comms crew chief with campaign medals (Korea, GWOT).
+- **U.S. Air Force**: IA architect for 5 DoD networks under RMF. Anti-tamper risk for 1,000+ technologies. Lead Security Engineer on Grey Eagle/Predator/Global Hawk UAS programs. Combat comms crew chief with campaign medals (Korea, GWOT).
 
 ---
 
